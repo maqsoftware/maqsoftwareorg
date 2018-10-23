@@ -206,6 +206,21 @@ p {
     margin: 0px 0 10px 0;
     color: Black;
     letter-spacing: 1px;
+    
+}
+
+
+
+
+pratham {
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0px 0 10px 0;
+    color: Black;
+    letter-spacing: 1px;
+    text-align: left;
+
 }
 
     p.lead, .lead {
@@ -839,8 +854,14 @@ form label.error {
 
 .challenge{
 
+
+
+
+
+    
     padding-top: 5px;
     font-family: 'Raleway', sans-serif;
+
 }
 
 
@@ -862,6 +883,7 @@ form label.error {
     padding: 0px 0px 0px 70px;
     text-align: right;
     font-family: 'Raleway', sans-serif;
+    float: right;
 }
 
 
