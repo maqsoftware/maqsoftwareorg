@@ -826,7 +826,7 @@ form label.error {
     font-size: 17px;
     font-weight: 600;
     margin: 0px 0 10px 0;
-    color: Black;
+    color: white;
     letter-spacing: 1px;
     padding-top: 80px;
 }
@@ -3376,7 +3376,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 .opaquevideo
 {
     
-    height: 415px;
+    height: 455px;
     left: 0;
     opacity: 0.2;
     position: absolute;
