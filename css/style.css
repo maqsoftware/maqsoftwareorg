@@ -3385,30 +3385,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
     z-index: 0;
 }
 
-.staticImage {
-    display: none;
-    height: 100%;
-    left: 0;
-    opacity: 0.3;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: 0;
-}
 
-
-@media (max-width: 576px) {
-    .opaquevideo {
-        display: none;     
-
-    }
-
-
-    .staticImage {
-        display: block;
-        
-    }
-}
 
 
 
