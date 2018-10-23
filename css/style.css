@@ -843,7 +843,7 @@ form label.error {
     margin: 0px 0 10px 0;
     color: white;
     letter-spacing: 1px;
-    padding-top: 54px;
+    padding-top: 40px;
 }
 
 
@@ -880,11 +880,28 @@ form label.error {
 
 .million{
     border-left: 2px solid #707070;
-    padding: 0px 0px 0px 70px;
+    padding: 5px 0px 0px 70px;
     text-align: right;
     font-family: 'Raleway', sans-serif;
     float: right;
 }
+
+@media (max-width: 500px){
+    .million{
+
+        border-left: 2px solid #707070;
+        padding: 5px 0px 0px 70px;
+        text-align: right;
+        font-family: 'Raleway', sans-serif;
+        float: right;
+        margin-bottom: -70px;
+        margin-top: 40px;
+    
+    }
+
+
+}
+
 
 
 .testclass{
